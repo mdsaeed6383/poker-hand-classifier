@@ -67,4 +67,4 @@ cd poker-hand-classifier
 pip install -r requirements.txt
 
 # Run the app
-streamlit run app.py
+streamlit run poker_app.py
